@@ -18,13 +18,16 @@
 $ cargo install resfetch
 ```
 
-### Homebrew
+### Manual
 ```bash
-# tapping the formula
-$ brew tap hitblast/resfetch
+# download the apt ZIP file for your operating system
+$ wget https://github.com/furtidev/resfetch/releases/latest/download/resfetch-ubuntu.zip
 
-# installing it
-$ brew install resfetch
+# unzip it
+$ unzip ./resfetch-ubuntu.zip
+
+# move the executable to a location in PATH
+$ mv ./resfetch ~/.local/bin
 ```
 
 ## Dependencies Used
