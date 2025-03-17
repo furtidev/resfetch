@@ -1,7 +1,7 @@
 <div align="center">
 
 # resfetch
-### A fast and minimal alternative to neofetch
+### A minimal alternative to neofetch
 
 [![Version](https://img.shields.io/crates/v/resfetch?label=version)](https://crates.io/crates/resfetch)
 [![Test Builds](https://github.com/hitblast/resfetch/actions/workflows/build.yml/badge.svg)](https://github.com/hitblast/resfetch/actions/workflows/build.yml)
